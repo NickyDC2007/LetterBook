@@ -20,21 +20,15 @@ Elaborar o planejamento da sprint com o backlog preparado (ready) para o desenvo
 
 ## Integrantes
 
+- Nícola Gonçalves
 - Artur Barbosa Lobato
 - Felipe Menezes Alho
 - Gustavo Alencar Lobato
 - João Victor Rios Ribeiro
-- Nícola Gonçalves
 
 ## Como executar
 
 Não é preciso instalar nada. Abra o arquivo `index.html` em um navegador (Chrome, Edge ou Firefox).
-
-Opcionalmente, para rodar com um servidor local:
-
-```bash
-python -m http.server 5173
-```
 
 Depois acesse `http://localhost:5173`.
 
@@ -99,10 +93,3 @@ Todos os 10 PBIs do quadro estão implementados. Comece com a conta de exemplo (
 | **PBI-08** Registrar o livro no histórico | Leitura | Clicar em **Marcar como concluído** e confirmar: o progresso vai para 100% e o livro aparece em Histórico e Concluídos. | Cancelar a confirmação, ou clicar de novo sem ter livro em leitura: o status é mantido. |
 | **PBI-09** Exibir lojas que vendem o livro | Menu → **Lojas** | Clicar em **Lojas**: a página "Lojas virtuais que recomendamos" exibe todas as lojas recomendadas, cada uma com o link **Ver na loja**. | A lista é fixa e sempre exibe todas as lojas. |
 | **PBI-10** Acessar o perfil do usuário | Ícone com as iniciais, no topo | Clicar no ícone: o perfil abre com as informações do usuário; **Editar informações** permite alterar nome e descrição. | Tentar salvar com o nome vazio: aparece o erro e as informações não são alteradas. |
-
-### Dicas para a demonstração
-
-- Para repetir o PBI-03 depois da falha: escolha um livro em **Sugestões → Começar a ler** ou restaure os dados de exemplo.
-- Para repetir o PBI-04 depois da falha: adicione amizades de novo em **Perfil → Amizades**.
-- Para repetir o PBI-05: desmarque uma notificação para liberar espaço.
-- Depois de concluir o livro (PBI-08), inicie um novo em **Sugestões** para voltar a usar a página Leitura.
