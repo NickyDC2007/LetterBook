@@ -31,13 +31,8 @@ Quadro: https://trello.com/b/tzKh47hd/trello-eng-soft
 | **PBI-04** Contabilizar os livros concluídos | Ranking → **Pódio** | Clicar no filtro **Amizades**: o pódio é mostrado só entre as amizades. | Em Perfil, remover todas as amizades e clicar no filtro **Amizades**: o pódio não é mostrado. |
 | **PBI-05** Receber sugestão de livro novo | Notificações (sino 🔔) | Marcar **Sugestão de livro novo**: a notificação é ativada e a primeira sugestão chega em "Notificações recebidas". | Marcar antes **Mudanças no pódio** (3 de 3 ativas) e depois **Sugestão de livro novo**: o sistema não permite configurar. |
 | **PBI-06** Revisar informações cadastradas | Perfil → **Gerenciar livros (moderador)** | Clicar em **Revisar** no "Torto Arado" (cadastro concluído): todas as informações são exibidas e o botão **Confirmar livro** aparece. | Clicar em **Revisar** no "O Conto da Aia" (em cadastramento): o sistema informa que existem informações pendentes. |
-
-## Itens que já estavam no quadro
-
-| PBI | Onde | Sucesso | Falha |
-|---|---|---|---|
 | **PBI-07** Informar a página atual | Leitura | Digitar uma página válida e clicar em **Salvar página**. | Deixar o campo vazio ou digitar uma página fora do livro. |
 | **PBI-08** Registrar o livro no histórico | Leitura | Clicar em **Marcar como concluído** e confirmar: o progresso vai para 100%. | Cancelar a confirmação, ou clicar de novo sem ter livro em leitura. |
 | **PBI-09** Exibir lojas que vendem o livro | Lojas | — | — |
 | **PBI-10** Acessar o perfil do usuário | Ícone com as iniciais, no topo | — | — |
-#
+
